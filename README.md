@@ -30,7 +30,7 @@ Some records contain missing values in the Genre column, which were handled duri
 * **Pandas** – Data manipulation & cleaning
 * **NumPy** – Numerical operations
 * **Matplotlib / Seaborn** – Data visualization
-* **Jupyter Notebook** – Development environment
+* **google colab Notebook** – Development environment
 * **GitHub** – Version control & project hosting
 
 ---
@@ -97,7 +97,7 @@ pip install pandas numpy matplotlib seaborn
 3. Open the Jupyter Notebook:
 
 ```bash
-jupyter notebook
+google colab notebook
 ```
 
 4. Run all cells to reproduce the analysis
@@ -110,7 +110,7 @@ jupyter notebook
 movie-data-analysis/
 │
 ├── data/                # Dataset files
-├── notebooks/           # Jupyter notebooks
+├── notebooks/           # google colab notebooks
 ├── README.md            # Project documentation
 └── requirements.txt     # Required libraries
 ```
